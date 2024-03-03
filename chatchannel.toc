@@ -1,0 +1,9 @@
+## Interface: 100205
+## Version: 1.0.0
+## Title: Chatchannel
+## Notes: chat channel picker
+## IconTexture: Interface\AddOns\Chatchannel\Images\logo-64.tga
+## Author: Victor Buldenko
+## License: All Rights Reserved
+
+chatchannel.lua
